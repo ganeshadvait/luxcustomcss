@@ -1,0 +1,15 @@
+.ast-header-break-point .main-navigation ul .menu-item .menu-link .icon-arrow:first-of-type{
+display:none;
+}
+.ast-header-break-point .main-navigation ul .sub-menu .menu-item:not(.menu-item-has-children) .menu-link .icon-arrow:first-of-type{
+display:none
+}
+@media (max-width: 544px){
+	.ast-menu-toggle:focus{
+		border:none;
+}
+}
+.ast-primary-header-bar {
+    display: block;
+	filter: contrast(1.5);
+}
